@@ -5,6 +5,7 @@ An intelligent AI-powered web application that automatically generates personali
 # Features
 
 URL-Based Analysis: Simply paste a job posting URL to extract relevant information,
+
 Intelligent Content Extraction: Uses web scraping to gather job requirements, company details, and role specifications
 Vector-Based Matching: ChromaDB integration for semantic similarity search and portfolio matching
 AI-Powered Generation: LangChain integration for advanced language model orchestration
